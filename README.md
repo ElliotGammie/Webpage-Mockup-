@@ -9,6 +9,6 @@ Creating a webpage and understanding HTMl and CSS is an important part of the de
 
 # Running the Application
 
-1. Download the repo off github.
+1. Download the repo off github, download the zip file.
 
 2. The application's opening /viewing point is at ProjectOne.html. Download this file, it will then need to be opened within a browser. 
